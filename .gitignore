@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+first-neural-network/\.ipynb_checkpoints/
+
+first-neural-network/\.udacity-pa/
+
+\.DS_Store
